@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /src/sendMail.php
+
+Sitemap: https://absdental.in/sitemap.xml

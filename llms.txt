@@ -1,0 +1,23 @@
+# AB'S Dental & Aesthetics
+
+> Dental, skin and hair clinic in Brodipet, Guntur, Andhra Pradesh, India. Led by Dr. Sk Anusha Begum (BDS, PGDM, FCMMP, FFA-UK). Invisalign certified.
+
+Address: 2/13, Bank of India Complex, Brodipet, Guntur, Andhra Pradesh 522002
+Phone: +91 93470 62933, +91 90300 44555
+Email: absdental69@gmail.com
+Website: https://absdental.in
+
+## Services
+- Dental: implants, Invisalign and braces, root canal treatment, crowns and bridges, gum treatment, kids dentistry, smile design, teeth whitening, laser dentistry
+- Skin: acne and scar treatment, pigmentation, anti-aging, chemical peels, laser skin treatments, HydraFacial, PRP therapy
+- Hair: hair fall treatment, PRP hair therapy, hair transplant, scalp treatments
+
+## Pages
+- https://absdental.in/ : Home
+- https://absdental.in/src/dentaltreatment.html : Dental treatments
+- https://absdental.in/src/skintreatment.html : Skin treatments
+- https://absdental.in/src/hairtreatment.html : Hair treatments
+- https://absdental.in/src/treatments.html : All treatments
+- https://absdental.in/src/aboutus.html : About the clinic and doctor
+- https://absdental.in/src/casestudy.html : Case studies
+- https://absdental.in/src/blog.html : Blog
